@@ -1,1 +1,7 @@
 print("Ahora que mentira te vas a inventar?")
+print("le lloraste al policia: la vuelta no pueden dar")
+print("tú me viste ser campeón tú me viste festejar")
+print("dando vueltas en matute algo que no olvidarás")
+print("El más grande y popular")
+print("y por tu siempre tu papá")
+print("esas luces que apagaron fueron tendecial")
